@@ -1,0 +1,12 @@
+{
+  "name": "juego-sequia-en-vivo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Juego multijugador sobre sequías para una exposición de ciencias.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

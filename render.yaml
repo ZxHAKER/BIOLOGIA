@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: juego-sequia-en-vivo
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /
